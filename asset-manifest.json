@@ -1,14 +1,14 @@
 {
-  "main.css": "/react-starter/static/css/main.fc1c8eb4.chunk.css",
-  "main.js": "/react-starter/static/js/main.d037de3b.chunk.js",
-  "main.js.map": "/react-starter/static/js/main.d037de3b.chunk.js.map",
+  "main.css": "/react-starter/static/css/main.3245f820.chunk.css",
+  "main.js": "/react-starter/static/js/main.003f9040.chunk.js",
+  "main.js.map": "/react-starter/static/js/main.003f9040.chunk.js.map",
   "static/js/1.fa92c112.chunk.js": "/react-starter/static/js/1.fa92c112.chunk.js",
   "static/js/1.fa92c112.chunk.js.map": "/react-starter/static/js/1.fa92c112.chunk.js.map",
   "runtime~main.js": "/react-starter/static/js/runtime~main.18eedbb6.js",
   "runtime~main.js.map": "/react-starter/static/js/runtime~main.18eedbb6.js.map",
-  "static/media/logo.svg": "/react-starter/static/media/logo.ee7cd8ed.svg",
-  "static/css/main.fc1c8eb4.chunk.css.map": "/react-starter/static/css/main.fc1c8eb4.chunk.css.map",
+  "static/media/logo.svg": "/react-starter/static/media/logo.dd17e404.svg",
+  "static/css/main.3245f820.chunk.css.map": "/react-starter/static/css/main.3245f820.chunk.css.map",
   "index.html": "/react-starter/index.html",
-  "precache-manifest.b21a4324f62bdf0103814a565781f4a8.js": "/react-starter/precache-manifest.b21a4324f62bdf0103814a565781f4a8.js",
+  "precache-manifest.940beb54d5742311d2e7f8ce775ccc59.js": "/react-starter/precache-manifest.940beb54d5742311d2e7f8ce775ccc59.js",
   "service-worker.js": "/react-starter/service-worker.js"
 }
